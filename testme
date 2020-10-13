@@ -1,0 +1,5 @@
+Sup := 1
+SouthPark := 9.9E-9
+if Sup <= 1 and 10 > SouthPark
+\t then Sup = 1.02
+\t else Sup = 1.03E4
